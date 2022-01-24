@@ -1,2 +1,0 @@
-# Rainbow
-Just a rainbow
